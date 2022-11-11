@@ -6,3 +6,7 @@ This project is to get comfortable using git and html.
 
 After completing this I will return to reflect on problems I ran into and how I over came them.
 
+Completed project. Took approximately 2.5 hours.
+Used some CSS to get more comfortable with layouts etc.
+I learned a lot just doing this project compared to being in tutorial hell for the past few months. 
+This was a lot of fun.
